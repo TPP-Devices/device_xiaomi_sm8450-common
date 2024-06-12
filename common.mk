@@ -352,6 +352,7 @@ PRODUCT_PACKAGES += \
     WifiResCommon_Sys
 
 PRODUCT_PACKAGES += \
+    DeviceAsWebcamResXiaomi \
     DialerResXiaomi \
     FrameworksResTarget_Vendor \
     FrameworksResXiaomi \
